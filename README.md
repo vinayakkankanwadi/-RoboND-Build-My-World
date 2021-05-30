@@ -64,7 +64,7 @@ $ gazebo UdacityOffice.world
 
 ### Output
 The Welcome world message and the robot inside a Gazebo World should both launch as follow: 
-![alt text](images/output.png)
+![alt text](https://github.com/vinayakkankanwadi/RoboND-Build-My-World/blob/main/images/output.PNG)
 
 
     
